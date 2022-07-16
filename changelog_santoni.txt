@@ -8,6 +8,12 @@ Device: Redmi 4X (santoni)
 Device maintainer: Anar Jabiyev (Jabiyeff)
 Required firmware: V45 or higher
 
+===== 2022.07.16 =====
+• Updated to July security patch
+• Switched to threaded GLES render engine
+• Kernel: 4.9.227 (CAF) - LA.UM.10.6.2.r1-02200-89xx.0 (Clang 14.0.2)
+• Misc. Fixes and Improvements
+
 ===== 2022.06.18 =====
 • Updated to June security patch
 • Updated Graphics and WFD blobs from LA.UM.10.6.2.r1-01600-89xx.0
