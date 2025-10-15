@@ -1,26 +1,8 @@
 Build type: Monthly
 Device: Xiaomi Redmi Note 11 (spes/spesn)
-Device maintainer: Jingexz01 (Jing)
+Device maintainer: Jabiyeff
 Highlights & Device Specific Changes:
 
 ====================
-     10-13-2025
+     10-16-2025
 ====================
-
-   10-12-2025 crDroid Base Update
-   *System & Core
-   *UI & Customization
-   *SystemUI
-   *Launcher3
-   *LMOFreeform
-   *Input
-   *Connectivity & Security
-   *Icons
-
-====================
-     10-11-2025
-====================
-
-   Initial crDroid 12.x Support for Redmi Note 11
-   Removed KSU-Next
-   10-10-2025 crDroid Base Update
