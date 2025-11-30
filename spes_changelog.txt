@@ -4,5 +4,8 @@ Device maintainer: Jabiyeff
 Highlights & Device Specific Changes:
 
 ====================
-     10-16-2025
+     11-29-2025
 ====================
+
+• Update to November Security Patch
+• Misc. changes and improvements
